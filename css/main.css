@@ -2714,3 +2714,10 @@ ul.breadcrumb li:last-child {
     margin-bottom: 10px;
   }
 }
+body {
+  background: url("https://github.com/Wen2chao/wen2chao.github.io/tree/main/images/bd");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: cover;
+}
