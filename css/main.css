@@ -2715,7 +2715,7 @@ ul.breadcrumb li:last-child {
   }
 }
 body {
-  background: url("https://github.com/Wen2chao/wen2chao.github.io/tree/main/images/bd");
+  background: url("/images/bd");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: 50% 50%;
